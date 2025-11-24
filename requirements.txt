@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-jose
+python-dotenv
+
+scikit-learn
+joblib
+pandas
+numpy
+
+prometheus-fastapi-instrumentator
